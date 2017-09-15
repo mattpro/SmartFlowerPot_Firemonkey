@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.296,C:\Users\PCTG123\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Dropbox\Dropbox\PROJEKT BlueFlower POT\Delphi\Delphi FlowerPot ver 1.0\BlueFlowerPot_ver1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,=J:\Dropbox\PROJEKT BlueFlower POT\Delphi\Delphi FlowerPot ver 1.0\SmartFlowerPot.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.698,=D:\Dropbox\Dropbox\PROJEKT BlueFlower POT\Delphi\Delphi FlowerPot ver 1.0\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.585,J:\Dropbox\PROJEKT BlueFlower POT\Delphi\Delphi FlowerPot ver 1.0\main.fmx=J:\Dropbox\PROJEKT BlueFlower POT\Delphi\Delphi FlowerPot ver 1.0\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,=C:\Users\PCTG123\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.585,J:\Dropbox\PROJEKT BlueFlower POT\Delphi\Delphi FlowerPot ver 1.0\main.pas=J:\Dropbox\PROJEKT BlueFlower POT\Delphi\Delphi FlowerPot ver 1.0\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,J:\Dropbox\Zjazd programistow Delphi\Firemonkey\SmartFlowerPotScaner\SmartFlowerPotScanner.dproj=J:\Dropbox\Zjazd programistow Delphi\Firemonkey\SmartFlowerPotScaner\BlueFlowerPot_ver1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,=C:\Users\PCTG123\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,=C:\Users\PCTG123\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="LGH8708508b16b"/>
+	</ActiveMobileDevice>
+</BorlandProject>

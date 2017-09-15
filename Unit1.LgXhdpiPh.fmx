@@ -1,0 +1,57 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  OnResize = FormResize
+  DesignerMasterStyle = 0
+  inherited ListView1: TListView
+    Size.Width = 450.000000000000000000
+    Size.Height = 289.000000000000000000
+    ItemAppearanceObjects.ItemEditObjects.ObjectsCollection = <
+      item
+        AppearanceObjectName = 'Text1'
+        AppearanceClassName = 'TTextObjectAppearance'
+        Appearance.Width = 207.000000000000000000
+      end>
+  end
+  inherited TabControl1: TTabControl
+    Align = Bottom
+    Position.Y = 304.000000000000000000
+    Size.Width = 450.000000000000000000
+    Size.Height = 391.000000000000000000
+    Sizes = (
+      450s
+      342s
+      450s
+      342s
+      450s
+      342s)
+    inherited TabItem1: TTabItem
+      Size.Width = 150.000000000000000000
+      ExplicitSize.cx = 150.000000000000000000
+      ExplicitSize.cy = 30.000000000000000000
+    end
+    inherited TabItem2: TTabItem
+      Size.Width = 150.000000000000000000
+      ExplicitSize.cx = 150.000000000000000000
+      ExplicitSize.cy = 30.000000000000000000
+      inherited CheckBox1: TCheckBox
+        Position.Y = 40.000000000000000000
+        Size.Width = 153.000000000000000000
+        Size.PlatformDefault = False
+      end
+      inherited Button1: TButton
+        Position.Y = 72.000000000000000000
+        Size.Width = 153.000000000000000000
+        Size.Height = 49.000000000000000000
+      end
+    end
+    inherited TabItem3: TTabItem
+      Size.Width = 150.000000000000000000
+      ExplicitSize.cx = 150.000000000000000000
+      ExplicitSize.cy = 30.000000000000000000
+    end
+  end
+  inherited Beacon1: TBeacon
+    OnBeaconError = Beacon1BeaconError
+  end
+end
